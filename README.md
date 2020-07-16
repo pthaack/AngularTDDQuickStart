@@ -2,10 +2,11 @@
 How to create an Angular app using the command line interface
 
 ## Angular TDD Quickstart from scratch
-1. install Angular
-2. install Visual Studio Code
-3. open command (cmd)
+- [x] install Angular
+- [x] install Visual Studio Code
+1. open command (cmd)
 4. create new app (ng new appNew)
+3. change directory to new app (cd appNew)
 5. add home component (ng g c home)
 6. add database (ng g s data)
 7. add pwa service (ng add @angular/pwa)
