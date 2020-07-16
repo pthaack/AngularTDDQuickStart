@@ -9,7 +9,7 @@ How to create an Angular app using the command line interface
 5. add home component (ng g c home)
 6. add database (ng g s data)
 7. add pwa service (ng add @angular/pwa)
-8. start test service (ng test)
-9. start demo web service (ng serve -o)
+8. start demo web service (ng serve -o)
+9. start test service (ng test)
 10. add test code to home component (home.component.spec.ts)
 11. follow TDD architechture
