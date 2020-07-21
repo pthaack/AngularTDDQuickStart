@@ -9,6 +9,7 @@ How to create an Angular app using the command line interface
 3. change directory to new app (cd appNew)
 5. add home component (ng g c home)
 6. add database (ng g s data)
+9. add theme (ng g s theme)
 7. add pwa service (ng add @angular/pwa)
 8. start demo web service (ng serve -o)
 9. start test service (ng test)
