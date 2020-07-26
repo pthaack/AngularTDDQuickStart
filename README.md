@@ -13,5 +13,6 @@ How to create an Angular app using the command line interface
 7. add pwa service (ng add @angular/pwa)
 8. start demo web service (ng serve -o)
 9. start test service (ng test)
+10. remove everything so that only the router-outlet directive remains (app.component.html)
 10. add test code to home component (home.component.spec.ts)
 11. follow TDD architechture
