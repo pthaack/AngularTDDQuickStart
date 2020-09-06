@@ -15,4 +15,7 @@ How to create an Angular app using the command line interface
 9. start test service (ng test)
 10. remove everything so that only the router-outlet directive remains (app.component.html)
 10. add test code to home component (home.component.spec.ts)
-11. follow TDD architechture
+11. follow TDD steps
+    1. write a test
+    2. make it pass
+    3. refactor
